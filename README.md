@@ -5,8 +5,4 @@ Enter any movie name, and the system recommends similar movies using content-bas
 
 🛠️ Tech Stack
 
-  Python
-  Pandas
-  NumPy
-  Scikit-learn
-  Streamlit
+Python  |  Pandas  |  NumPy  |  Scikit-learn  |  Streamlit
